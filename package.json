@@ -1,0 +1,15 @@
+{
+  "name": "words_search",
+  "version": "1.0.0",
+  "description": "ws",
+  "main": "script.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dashahello/words_search"
+  },
+  "author": "https://github.com/dashahello",
+  "license": "ISC"
+}
