@@ -1,6 +1,6 @@
 # words_search:
 
-`words_search` an algorithm for finding specified words in a two-dimensional
+`words_search` an algorithm for finding specific words in a two-dimensional
 array
 
 _Example:_
